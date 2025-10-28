@@ -25,7 +25,7 @@ The **Event Management System** is a web application designed to streamline the 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/neelchau/EventManagementSystem.git
+   git clone hhttps://github.com/neelchau/Event-Managment-System
 2. Set up the database:    Import the event_planning database schema into MySQL.
 3. Configure the database connection: Update the credentials in authentication/dbconnection.php.
 4. Start a local server (e.g., XAMPP or WAMP) and place the project in the htdocs directory.
